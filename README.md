@@ -1,4 +1,5 @@
-## Hey! 👋 I'm Muhammadanas, a 18 years old web developer from Uzbekistan.
+## Hey! 
+👋 I'm Muhammadanas, a 18 years old web developer from Uzbekistan.
 - 🧭 Founder at [@e-commerce](https://github.com/Anasxon7) and [@HotSkin](https://github.com/Anasxon7) 
 - 👥 Core team member at [@Utopia Group](https://github.com/UtopiaGroup) 
 
