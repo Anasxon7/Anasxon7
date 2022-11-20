@@ -1,16 +1,12 @@
-### Hi there 👋
+## Hey! 👋 I'm Muhammadanas, a 18 years old web developer from Uzbekistan.
+- 🧭 Founder at [@e-commerce](https://github.com/Anasxon7) and [@HotSkin](https://github.com/Anasxon7) 
+- 👥 Core team member at [@Utopia Group](https://github.com/UtopiaGroup) 
 
-<!--
-**Anasxon7/Anasxon7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills 
+- 👨‍💻 JavaScript, TypeScript 
+- ⚙️ React, Next, Gulp
+- 👁️ CSS, SASS, Tailwind 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- [Portfolio](https://muhammadanasxon.me)
+- [@Madaminov](https://t.me/madam1nov_m_a) on Telegram
